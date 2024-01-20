@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recipi-book/static/css/main.dadbaf49.css",
+    "main.js": "/recipi-book/static/js/main.5fab2488.js",
+    "index.html": "/recipi-book/index.html",
+    "main.dadbaf49.css.map": "/recipi-book/static/css/main.dadbaf49.css.map",
+    "main.5fab2488.js.map": "/recipi-book/static/js/main.5fab2488.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dadbaf49.css",
+    "static/js/main.5fab2488.js"
+  ]
+}
